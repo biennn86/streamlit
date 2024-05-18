@@ -685,7 +685,7 @@ def test_prd():
 
 def main_cls_read_data_from_excel():
 
-	path = 'D:/DATA/P&G/my_project/file_source/get_transaction_rtcis_070424 GuiMinh.xlsm'
+	path = 'file_source/get_transaction_rtcis_070424 GuiMinh.xlsm'
 	name_sh = 'DataFormRTCIS'
 	# path = 'D:/DATA/P&G/my_project/file_source/data_rtcis_test.xlsx'
 	# name_sh = 'Sheet1'
