@@ -706,5 +706,5 @@ def main_cls_read_data_from_excel():
 	#------------------------------------------------------------------------------
 	
 
-# main_cls_read_data_from_excel()
+main_cls_read_data_from_excel()
 
